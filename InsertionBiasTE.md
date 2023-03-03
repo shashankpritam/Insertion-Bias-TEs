@@ -1,5 +1,5 @@
 
-Here are the step-by-step instructions for testing the insertion bias implementation:
+The instructions for testing the insertion bias implementation:
 
 1.  Distribute 1000 insertions randomly in the base population.
 2.  Simulate the invasion for only 1 (or, if possible 0) generations.
